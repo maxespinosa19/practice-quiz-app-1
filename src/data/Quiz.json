@@ -25,7 +25,7 @@
 
     {
         "id": 2,
-        "questions": "What is the capital of Ireland?",
+        "question": "What is the capital of Ireland?",
         "options": [
             {
                 "answer": "Paris",
